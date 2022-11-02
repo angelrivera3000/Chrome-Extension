@@ -17,3 +17,4 @@ async function fetchData() {
         */
 }
 fetchData();
+onclick
